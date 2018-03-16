@@ -5,5 +5,4 @@ Git tracks changes.
 
 this is added for testing
 
-creating a new branch is quick
-
+creating a new branch is quick and simple.
